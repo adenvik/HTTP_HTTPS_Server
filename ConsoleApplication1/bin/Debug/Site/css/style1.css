@@ -1,0 +1,49 @@
+body{
+width:890px;
+margin:0 auto;
+padding:15px;
+}
+#header{
+height:150px;
+}
+#content{
+border: 4px double black;
+float:left;
+width:690px;
+margin-top:10px;
+}
+#info{
+width:180px;
+margin-left:710px;
+margin-top:10px;
+}
+#tovar{
+margin:0;
+padding:0;
+width:220px;
+margin:0 auto;
+padding:5px;
+height:300px;
+}
+#image{
+margin:0;
+padding:0;
+height:210px;
+}
+#name{
+margin:0;
+padding:0;
+height:50px;
+}
+#description{
+margin:0;
+padding:0;
+border-top: 1px solid red;
+height:30px;
+font-size:11px;
+}
+#info p{
+font-size:18px;
+margin-top:5px;
+padding:0;
+}
